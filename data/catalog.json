@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-21T21:03:59.995812+00:00",
+  "packages": [
+    {
+      "id": "baden-wuerttemberg-region",
+      "display_name": "Baden-Württemberg",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        7.5,
+        47.5,
+        10.5,
+        49.8
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/baden-wuerttemberg-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/baden-wuerttemberg-region-2026.10.21.zip",
+      "size_bytes": 298260125,
+      "installed_size_bytes": 771704930,
+      "sha256": "1d1cba6dbcb62b5a0c0be90d0c6b298f8a23adae6f6396c2dd6d3a3afd71ba49",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "bayern-region",
+      "display_name": "Bayern",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        8.9,
+        47.2,
+        13.8,
+        50.6
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/bayern-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/bayern-region-2026.10.21.zip",
+      "size_bytes": 411254189,
+      "installed_size_bytes": 1072180678,
+      "sha256": "7e98000fc8ef5476546a1d6d7f0b7eb109de7667ba789a00a39b68810028e920",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "berlin-region",
+      "display_name": "Berlin",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        13.0,
+        52.3,
+        13.8,
+        52.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/berlin-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/berlin-region-2026.10.21.zip",
+      "size_bytes": 57784150,
+      "installed_size_bytes": 170746289,
+      "sha256": "1debb88330ece3a17c2244f4f5f9658598a50a1200233fb72ccf00bc3e8a7241",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "brandenburg-region",
+      "display_name": "Brandenburg",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        11.2,
+        51.3,
+        14.8,
+        53.6
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/brandenburg-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/brandenburg-region-2026.10.21.zip",
+      "size_bytes": 142753716,
+      "installed_size_bytes": 396558632,
+      "sha256": "ed4d1dffed97a616c4131e9d11aaf1132d887e889521fa54d1b02861295d9f50",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "bremen-region",
+      "display_name": "Bremen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        8.4,
+        52.9,
+        9.2,
+        53.6
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/bremen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/bremen-region-2026.10.21.zip",
+      "size_bytes": 9221783,
+      "installed_size_bytes": 25052972,
+      "sha256": "2177c7d6cb6a092890e5ba7287f43267ae1ffb8864ae6d3b57b3a4500211f4cd",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "hamburg-region",
+      "display_name": "Hamburg",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        9.6,
+        53.4,
+        10.5,
+        53.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/hamburg-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/hamburg-region-2026.10.21.zip",
+      "size_bytes": 26788637,
+      "installed_size_bytes": 74410193,
+      "sha256": "d6641ffc361fc985632b31928d76394a45543ec0bbcfd94ad9950e6eddd2e263",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "hessen-region",
+      "display_name": "Hessen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        7.7,
+        49.4,
+        10.2,
+        51.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/hessen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/hessen-region-2026.10.21.zip",
+      "size_bytes": 150252131,
+      "installed_size_bytes": 384874502,
+      "sha256": "dc949168e4b003d30ed62ff0c71195b894ae1c779be42da6953f74c44d9ee016",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "mecklenburg-vorpommern-region",
+      "display_name": "Mecklenburg-Vorpommern",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        10.5,
+        53.0,
+        14.4,
+        54.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/mecklenburg-vorpommern-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/mecklenburg-vorpommern-region-2026.10.21.zip",
+      "size_bytes": 49467147,
+      "installed_size_bytes": 129559089,
+      "sha256": "ca1a542bebde7e763bce2846f20601db5b801dad803ceb441d0fb137a0986973",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "niedersachsen-region",
+      "display_name": "Niedersachsen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        6.6,
+        51.3,
+        11.6,
+        54.2
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/niedersachsen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/niedersachsen-region-2026.10.21.zip",
+      "size_bytes": 219430532,
+      "installed_size_bytes": 580570547,
+      "sha256": "26ebb3495fadaa453936b90dbaa391afdd5f8a27d48b874ead91d5bfb9dee35d",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "nordrhein-westfalen-region",
+      "display_name": "Nordrhein-Westfalen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        5.8,
+        50.3,
+        9.5,
+        52.5
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/nordrhein-westfalen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/nordrhein-westfalen-region-2026.10.21.zip",
+      "size_bytes": 344170402,
+      "installed_size_bytes": 909604011,
+      "sha256": "a54cc37287b663762457ad6209d99a1fda3c79ee739aa190b110fbbd49034716",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "rheinland-pfalz-region",
+      "display_name": "Rheinland-Pfalz",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        6.1,
+        48.9,
+        8.5,
+        50.9
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/rheinland-pfalz-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/rheinland-pfalz-region-2026.10.21.zip",
+      "size_bytes": 120745665,
+      "installed_size_bytes": 302880951,
+      "sha256": "0e6fcaf8b76957896d7c1afb8d05ecd3ebd9976280fdc3fffcae73a42eee1025",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "saarland-region",
+      "display_name": "Saarland",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        6.3,
+        49.1,
+        7.4,
+        49.6
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/saarland-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/saarland-region-2026.10.21.zip",
+      "size_bytes": 19956256,
+      "installed_size_bytes": 50853050,
+      "sha256": "5bb1816b991eacb5c9ee564112913064c9bfc967328a487098e6bd0c7642cda8",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "sachsen-anhalt-region",
+      "display_name": "Sachsen-Anhalt",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        10.5,
+        50.9,
+        13.2,
+        53.0
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/sachsen-anhalt-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/sachsen-anhalt-region-2026.10.21.zip",
+      "size_bytes": 66304476,
+      "installed_size_bytes": 169852529,
+      "sha256": "516ed8012786ec6ee2c2d206405b3a96e8bdf2d4c23eb33276721c8a0f49ed58",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "sachsen-region",
+      "display_name": "Sachsen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        11.8,
+        50.1,
+        15.0,
+        51.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/sachsen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/sachsen-region-2026.10.21.zip",
+      "size_bytes": 119916512,
+      "installed_size_bytes": 315132636,
+      "sha256": "4362bdc3dec4394e87634c5e50606bcf14a6f9cf4d054711291c27947318ce92",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "schleswig-holstein-region",
+      "display_name": "Schleswig-Holstein",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        7.5,
+        53.3,
+        11.9,
+        55.1
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/schleswig-holstein-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/schleswig-holstein-region-2026.10.21.zip",
+      "size_bytes": 67394650,
+      "installed_size_bytes": 176557538,
+      "sha256": "4bb8e0eef7042c86ec1ede65959c753d7eacd848b32e2f13a8d614c28049f118",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    },
+    {
+      "id": "thueringen-region",
+      "display_name": "Thüringen",
+      "country": "DE",
+      "version": "2026.10.21",
+      "data_date": "2026-10-21",
+      "bbox": [
+        9.8,
+        50.2,
+        12.7,
+        51.7
+      ],
+      "coverage_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/thueringen-region-coverage.geojson",
+      "archive_url": "https://github.com/xisanyi/michi-data/releases/download/data-2026.10.21/thueringen-region-2026.10.21.zip",
+      "size_bytes": 70655777,
+      "installed_size_bytes": 179061938,
+      "sha256": "67c10bffafcd8a533595979685037ebebf718eb35aff132cfd203e77e5e5ca30",
+      "package_format_version": 1,
+      "taxonomy_version": 1,
+      "components": [
+        "pois",
+        "valhalla"
+      ]
+    }
+  ],
+  "starter_packs": {}
+}
